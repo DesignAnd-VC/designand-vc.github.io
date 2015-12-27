@@ -19,7 +19,7 @@ html {
 }
 
 body {
-	background: $white;
+	background: #f1f1f5;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -32,9 +32,8 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "fenway"; //$helveticaNeue;
+  font-family: $fenway;
   color: $darkerGray;
-  font-weight: bold;
 
   line-height: 1.7;
   margin: 1em 0 15px;
@@ -46,7 +45,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 1.4rem;
+  color: $darkGray;
   a {
     color: inherit;
   }
@@ -70,11 +70,11 @@ p {
 }
 
 a {
-  color: $blue;
+  color: $black;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: #009fde;
   }
 }
 
@@ -118,6 +118,13 @@ img {
 
 .date {
   font-style: italic;
+  font-size: .8rem;
+  color: $gray;
+}
+
+.entry {
+  font-family: $fenway;
+  font-size: 1rem;
   color: $gray;
 }
 
@@ -191,11 +198,20 @@ img {
   }
 }
 
+.about-type {
+  margin: 0;
+  color: #85c5de;
+  cursor: pointer;
+  font-family: $fenway;
+  font-style: italic;
+  font-size: 14px;
+}
+
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: $gray;
   cursor: pointer;
-  font-family: $helveticaNeue;
+  font-family: $helvetica;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -229,7 +245,6 @@ nav {
     color: $darkGray;
     text-align: right;
     font-weight: 300;
-    letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
@@ -268,7 +283,7 @@ nav {
 
   .read-more {
     text-transform: uppercase;
-    font-size: 15px;
+    font-size: .8rem;
   }
 }
 
