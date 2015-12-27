@@ -263,6 +263,17 @@ img {
   padding: 0;
 }
 
+.entry-excerpt {
+  font-family: "fenway", serif;
+  font-size: .9rem;
+  color: #666;
+  margin: 0em 0 -.5em .2em;
+  padding: 0 0 0 .5em;
+  border-style: solid;
+  border-left-width: thick;
+  border-left-color: #c2bfb8;
+}
+
 ::-moz-selection {
   color: #000;
   background: #eee;
@@ -329,6 +340,10 @@ img {
     display: block;
     margin: 0 auto;
   }
+}
+
+.mytweet {
+  margin-bottom: 9px;
 }
 
 .about-type {
@@ -410,8 +425,11 @@ nav a {
   margin-top: 10px;
 }
 .post .read-more {
-  color: #666;
+  color: #a7a8aa;
+  text-transform: uppercase;
   font-size: .7rem;
+  letter-spacing: .1em;
+  margin: 0em 0 0em 1.3em;
 }
 
 .wrapper-footer {
