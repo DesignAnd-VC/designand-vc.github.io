@@ -18,10 +18,12 @@ html {
   font-size: 100%;
 }
 
+article {
+}
 body {
 	background: #f1f1f5;
   font: 18px/1.4 $helvetica;
-  color: $darkGray;
+  color: $coolgray11;
 }
 
 .container {
@@ -35,8 +37,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: $fenway;
   color: $darkerGray;
 
-  line-height: 1.7;
-  margin: 1em 0 15px;
+  margin: 0em 0 0em;
   padding: 0;
 
   @include mobile {
@@ -46,7 +47,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 1.4rem;
-  color: $darkGray;
+  color: $spBlue;
   a {
     color: inherit;
   }
@@ -70,11 +71,12 @@ p {
 }
 
 a {
-  color: $black;
   text-decoration: none;
 	cursor: pointer;
+  color: $coolgray11;
   &:hover, &:active {
     color: #009fde;
+    border-bottom: 1px blue dotted;
   }
 }
 
@@ -117,15 +119,16 @@ img {
 }
 
 .date {
-  font-style: italic;
-  font-size: .8rem;
-  color: $gray;
+  font-size: .7rem;
+  color: $coolgray6;
 }
 
 .entry {
   font-family: $fenway;
   font-size: 1rem;
   color: $gray;
+  margin: 0em 0 0em;
+  padding: 0;
 }
 
 // Specify the color of the selection
@@ -200,7 +203,7 @@ img {
 
 .about-type {
   margin: 0;
-  color: #85c5de;
+  color: $spBlue;
   cursor: pointer;
   font-family: $fenway;
   font-style: italic;
@@ -268,6 +271,7 @@ nav {
 }
 
 .post {
+
   blockquote {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
@@ -282,16 +286,14 @@ nav {
   }
 
   .read-more {
-    text-transform: uppercase;
-    font-size: .8rem;
+    color: $gray;
+    font-size: .7rem;
   }
 }
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
 }
 
 footer {
@@ -301,5 +303,5 @@ footer {
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
-@import "highlights";
-@import "svg-icons";
+// @import "highlights";
+// @mport "svg-icons";

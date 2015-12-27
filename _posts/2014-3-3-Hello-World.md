@@ -1,12 +1,7 @@
 ---
 layout: post
-title: You're up and running!
+title: <img width=16 src="https://pbs.twimg.com/profile_images/467182596707741696/vx7eoqyc.jpeg"> Sprint (New Book) / Google Ventures
 ---
+[Jake Knapp](https://twitter.com/jakek/status/677248434282340352), John Zeratsky, and Braden Kowitz have a new book coming out entitled "SPRINT" that is now available for [pre-order](http://amzn.to/1RSJiOI).  
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![an image I love](/images/jekyll-now-theme-screenshot.jpg)
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+![SPRINT: The Book](/images/sprintbooknew.jpg)
