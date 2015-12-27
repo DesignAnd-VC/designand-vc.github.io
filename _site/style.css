@@ -161,7 +161,7 @@ body {
 .container {
   margin: 0 auto;
   max-width: 740px;
-  padding: 0 10px;
+  padding: 0 15px;
   width: 100%;
 }
 
@@ -348,6 +348,16 @@ img {
   padding-bottom: 10px;
 }
 
+.tagline {
+  font-family: "polariscond", Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  color: #666;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: .9rem;
+  padding-bottom: 15px;
+}
+
 .about-type {
   margin: 0;
   color: #4b7387;
@@ -406,7 +416,7 @@ nav a {
 }
 
 .posts > .post {
-  padding-bottom: 2em;
+  padding-bottom: 1em;
   border-bottom: 1px solid #eee;
 }
 
