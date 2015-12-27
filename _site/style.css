@@ -153,7 +153,7 @@ html {
 }
 
 body {
-  background: #fff;
+  background: #f1f1f5;
   font: 18px/1.4 "polariscond", Helvetica, Arial, sans-serif;
   color: #333;
 }
@@ -166,9 +166,8 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "fenway";
+  font-family: "fenway", serif;
   color: #222;
-  font-weight: bold;
   line-height: 1.7;
   margin: 1em 0 15px;
   padding: 0;
@@ -180,7 +179,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 1.4rem;
+  color: #333;
 }
 h1 a {
   color: inherit;
@@ -204,12 +204,12 @@ p {
 }
 
 a {
-  color: #ff0000;
+  color: #000;
   text-decoration: none;
   cursor: pointer;
 }
 a:hover, a:active {
-  color: #ff0000;
+  color: #009fde;
 }
 
 ul, ol {
@@ -251,6 +251,13 @@ img {
 
 .date {
   font-style: italic;
+  font-size: .8rem;
+  color: #666;
+}
+
+.entry {
+  font-family: "fenway", serif;
+  font-size: 1rem;
   color: #666;
 }
 
@@ -319,11 +326,20 @@ img {
   }
 }
 
+.about-type {
+  margin: 0;
+  color: #85c5de;
+  cursor: pointer;
+  font-family: "fenway", serif;
+  font-style: italic;
+  font-size: 14px;
+}
+
 .site-name {
   margin: 0;
-  color: #333;
+  color: #666;
   cursor: pointer;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: "polariscond", Helvetica, Arial, sans-serif;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -359,7 +375,6 @@ nav a {
   color: #333;
   text-align: right;
   font-weight: 300;
-  letter-spacing: 1px;
 }
 @media screen and (max-width: 640px) {
   nav a {
@@ -391,7 +406,7 @@ nav a {
 }
 .post .read-more {
   text-transform: uppercase;
-  font-size: 15px;
+  font-size: .8rem;
 }
 
 .wrapper-footer {
