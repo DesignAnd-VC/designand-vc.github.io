@@ -76,7 +76,8 @@ a {
   color: $coolgray11;
   &:hover, &:active {
     color: #009fde;
-    border-bottom: 1px blue dotted;
+    padding-bottom: 1px;
+    border-bottom: 1px dotted;
   }
 }
 
@@ -173,12 +174,14 @@ img {
   }
 }
 
+.site-avatar:hover {
+  border-bottom-style: hidden;
+}
 .site-avatar {
   float: left;
   width: 70px;
   height: 70px;
   margin-right: 15px;
-
   @include mobile {
     float: none;
     display: block;

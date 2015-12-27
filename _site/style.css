@@ -209,7 +209,8 @@ a {
 }
 a:hover, a:active {
   color: #009fde;
-  border-bottom: 1px blue dotted;
+  padding-bottom: 1px;
+  border-bottom: 1px dotted;
 }
 
 ul, ol {
@@ -296,6 +297,10 @@ img {
   .masthead {
     text-align: center;
   }
+}
+
+.site-avatar:hover {
+  border-bottom-style: hidden;
 }
 
 .site-avatar {
