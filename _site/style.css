@@ -205,7 +205,7 @@ p {
 a {
   text-decoration: none;
   cursor: pointer;
-  color: #53565a;
+  color: #000;
 }
 a:hover, a:active {
   color: #009fde;
@@ -343,7 +343,9 @@ img {
 }
 
 .mytweet {
-  margin-bottom: 9px;
+  font-family: "fenway", serif;
+  font-size: .5rem;
+  padding-bottom: 10px;
 }
 
 .about-type {
@@ -352,7 +354,7 @@ img {
   cursor: pointer;
   font-family: "fenway", serif;
   font-style: italic;
-  font-size: 14px;
+  font-size: .8rem;
 }
 
 .site-name {
