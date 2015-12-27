@@ -5,11 +5,10 @@ layout: default
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{post.iconimg}} {{ post.title }}</a></h1>
-
       <div class="date">
         Posted on {{ post.date | date: "%B %e, %Y" }}
       </div>
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{post.iconimg}} {{ post.title }}</a></h1>
       <div class="entry">
         <i>{{ post.excerpt }}</i>
       </div>
