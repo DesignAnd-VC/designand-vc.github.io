@@ -3,32 +3,28 @@
 <generator uri="http://jekyllrb.com" version="2.5.3">Jekyll</generator>
 <link href="/feed.xml" rel="self" type="application/atom+xml" />
 <link href="/" rel="alternate" type="text/html" />
-<updated>2015-12-27T08:51:56-05:00</updated>
+<updated>2015-12-27T10:55:46-05:00</updated>
 <id>/</id>
 <entry>
-<title>New thoughts</title>
-<link href="/New-Thinking/" rel="alternate" type="text/html" title="New thoughts" />
+<title> Irene Au / Khosla Ventures</title>
+<link href="/New-Thinking/" rel="alternate" type="text/html" title="&lt;img width=16 src=&quot;https://pbs.twimg.com/profile_images/672183572770385920/90wYm_uN.jpg&quot;&gt; Irene Au / Khosla Ventures" />
 <published>2015-12-26T00:00:00-05:00</published>
 <updated>2015-12-26T00:00:00-05:00</updated>
 <id>/New-Thinking</id>
-<content type="html" xml:base="/New-Thinking/">&lt;p&gt;I wonder how this all goes down?&lt;/p&gt;
+<content type="html" xml:base="/New-Thinking/">&lt;p&gt;Irene Au is Design Partner at Khosla Ventures; former head of design at Google, Yahoo, Udacity. Yoga + meditation teacher.&lt;/p&gt;
 </content>
-<summary>I wonder how this all goes down?</summary>
+<summary>Irene Au is Design Partner at Khosla Ventures; former head of design at Google, Yahoo, Udacity. Yoga + meditation teacher.</summary>
 </entry>
 <entry>
-<title>You&amp;#39;re up and running!</title>
-<link href="/Hello-World/" rel="alternate" type="text/html" title="You&#39;re up and running!" />
+<title> Sprint (New Book) / Google Ventures</title>
+<link href="/Hello-World/" rel="alternate" type="text/html" title="&lt;img width=16 src=&quot;https://pbs.twimg.com/profile_images/467182596707741696/vx7eoqyc.jpeg&quot;&gt; Sprint (New Book) / Google Ventures" />
 <published>2014-03-03T00:00:00-05:00</published>
 <updated>2014-03-03T00:00:00-05:00</updated>
 <id>/Hello-World</id>
-<content type="html" xml:base="/Hello-World/">&lt;p&gt;Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).&lt;/p&gt;
+<content type="html" xml:base="/Hello-World/">&lt;p&gt;&lt;a href=&quot;https://twitter.com/jakek/status/677248434282340352&quot;&gt;Jake Knapp&lt;/a&gt;, John Zeratsky, and Braden Kowitz have a new book coming out entitled &amp;quot;SPRINT&amp;quot; that is now available for &lt;a href=&quot;http://amzn.to/1RSJiOI&quot;&gt;pre-order&lt;/a&gt;.  &lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/jekyll-now-theme-screenshot.jpg&quot; alt=&quot;an image I love&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;%7B%7B%20site.baseurl%20%7D%7D/images/config.png&quot; alt=&quot;_config.yml&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the &lt;a href=&quot;https://github.com/barryclark/jekyll-now&quot;&gt;Jekyll Now repository&lt;/a&gt; on GitHub.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/sprintbooknew.jpg&quot; alt=&quot;SPRINT: The Book&quot;&gt;&lt;/p&gt;
 </content>
-<summary>Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).</summary>
+<summary>Jake Knapp, John Zeratsky, and Braden Kowitz have a new book coming out entitled &amp;quot;SPRINT&amp;quot; that is now available for pre-order.  </summary>
 </entry>
 </feed>
