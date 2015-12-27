@@ -2,7 +2,7 @@
 ---
 
 //
-// IMPORTS
+// IMPORTS---
 //
 
 @import "reset";
@@ -162,12 +162,11 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  margin-bottom: 20px;
 }
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
 
   @include mobile {
     text-align: center;
@@ -272,18 +271,17 @@ nav {
 
 .post {
 
-  blockquote {
-    margin: 1.8em .8em;
-    border-left: 2px solid $gray;
-    padding: 0.1em 1em;
-    color: $gray;
-    font-size: 22px;
-    font-style: italic;
-  }
-
-  .comments {
-    margin-top: 10px;
-  }
+    blockquote {
+      margin: 1.8em .8em;
+      border-left: 2px solid $gray;
+      padding: 0.1em 1em;
+      color: $gray;
+      font-size: 22px;
+      font-style: italic;
+    }
+    .comments {
+      margin-top: 10px;
+    }
 
   .read-more {
     color: $gray;

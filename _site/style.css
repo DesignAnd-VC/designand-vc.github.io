@@ -286,12 +286,11 @@ img {
 /* LAYOUT / SECTIONS */
 /*********************/
 .wrapper-masthead {
-  margin-bottom: 50px;
+  margin-bottom: 20px;
 }
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid #eee;
 }
 @media screen and (max-width: 640px) {
   .masthead {
