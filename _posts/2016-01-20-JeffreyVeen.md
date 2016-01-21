@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jeff Veen
+title: Jeffrey Veen
 iconimg: <img width=16 src="https://pbs.twimg.com/profile_images/502548502904201216/oZSQG89V.jpeg">
 mytweet: <blockquote class="twitter-tweet" width="480" data-cards="hidden" lang="en"><p lang="en" dir="ltr">An exciting change: I&#39;m leaving Adobe and joining <a href="https://twitter.com/trueventures">@TrueVentures</a> as Design Partner. <a href="https://t.co/GB3h1RNiwi">https://t.co/GB3h1RNiwi</a></p>&mdash; Jeffrey Veen (@veen) <a href="https://twitter.com/veen/status/563473067368665088">February 5, 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>  
 ---
