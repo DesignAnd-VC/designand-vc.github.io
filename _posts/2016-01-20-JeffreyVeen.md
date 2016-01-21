@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jeff Veen
-iconimg: 
+iconimg: <img width=16 src="https://pbs.twimg.com/profile_images/502548502904201216/oZSQG89V.jpeg">
 mytweet: 
 ---
 
