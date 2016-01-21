@@ -2,7 +2,7 @@
 layout: post
 title: Albert Lee
 iconimg: <img width=16 src="https://pbs.twimg.com/profile_images/576633880733749248/6dnS_MHK.jpeg">
-mytweet: <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Worked with <a href="https://twitter.com/tweetalbert">@tweetalbert</a> for 2 yrs in <a href="https://twitter.com/NEAVC">@NEAVC</a> Design Studio; I am thrilled he is officially here! <a href="http://t.co/nUlV7N38fB">http://t.co/nUlV7N38fB</a> <a href="https://twitter.com/hashtag/ItStartsWithDeisgn?src=hash">#ItStartsWithDeisgn</a></p>&mdash; daynagrayson (@daynagrayson) <a href="https://twitter.com/daynagrayson/status/654676127777099776">October 15, 2015</a></blockquote>
+mytweet: <blockquote class="twitter-tweet" width="480" data-cards="hidden" lang="en"><p lang="en" dir="ltr">Worked with <a href="https://twitter.com/tweetalbert">@tweetalbert</a> for 2 yrs in <a href="https://twitter.com/NEAVC">@NEAVC</a> Design Studio; I am thrilled he is officially here! <a href="http://t.co/nUlV7N38fB">http://t.co/nUlV7N38fB</a> <a href="https://twitter.com/hashtag/ItStartsWithDeisgn?src=hash">#ItStartsWithDeisgn</a></p>&mdash; daynagrayson (@daynagrayson) <a href="https://twitter.com/daynagrayson/status/654676127777099776">October 15, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 ---
 
