@@ -19,3 +19,20 @@ mytweet: <blockquote class="twitter-tweet" width="480" data-cards="hidden" lang=
 5. <b>How do you best support CEOs with a purely technical and/or business background to leverage design in their startup?</b> Have them speak directly to users/customers and help them bridge from customer needs to design and product development.
 
 6. <b>What are a few challenges you've seen in working with companies that have caught &ldquo;the design bug&rdquo; -- especially the CEO?</b> They spend too much time on it... either too much time on it evenly distributed without priorities...or they think it will solve all of their problems.
+
+7. <b>Which three public companies out there do you admire for their approach to design?</b>
+  * Alphabet
+  * Whole Foods
+  * Patagonia (private)
+
+8. <b>Which three startups in the CONSUMER space do you think embody design in their companies particularly well, and why?</b>
+  * Uber - great execution on their original vision of having passengers get transported around like rock stars; details like not having to deal with payment or tips after a ride help create a great experience; great branding and emotional connection to users through visual details such as showing the black car in the app; nice extension of the original concept to other areas (UberX, UberPool, UberSUV, etc); its model has inspired countless companies to extend the model to a variety of domains
+  * Medium - publishing platform makes it easy for anyone to post a great looking article and get traffic; nice content discovery experience; it will be the de facto publishing platform for the web
+  * Spotify - This company has radically changed the way we buy, discover, share, and listen to music
+
+
+9. <b>Which three startups in the ENTERPRISE space do you think embody design in their companies particularly well, and why?</b>
+  * Slack
+  * Square
+  * ThoughtSpot
+
