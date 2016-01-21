@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Albert Lee
-iconimg: <img width=16 src="https://pbs.twimg.com/profile_images/2586961653/image.jpg">
+iconimg: <img width=16 src="https://pbs.twimg.com/profile_images/576633880733749248/6dnS_MHK.jpeg">
 mytweet: <blockquote class="twitter-tweet" width="480" data-cards="hidden" lang="en"><p lang="en" dir="ltr">Thrilled for <a href="https://twitter.com/a16z">@a16z</a> to help <a href="https://twitter.com/Medium">@Medium</a> grow in to even more of a powerhouse platform. <a href="https://t.co/nzXeQsgohh">https://t.co/nzXeQsgohh</a></p>&mdash; Elizabeth Weil (@elizabeth) <a href="https://twitter.com/elizabeth/status/648633817297629185">September 28, 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>  
 ---
 
