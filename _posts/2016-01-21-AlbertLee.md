@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Albert Lee
-iconimg: <img width=16 src="https://pbs.twimg.com/profile_images/576633880733749248/6dnS_MHK.jpeg">
-mytweet: <blockquote class="twitter-tweet" width="480" data-cards="hidden" lang="en"><p lang="en" dir="ltr">Worked with <a href="https://twitter.com/tweetalbert">@tweetalbert</a> for 2 yrs in <a href="https://twitter.com/NEAVC">@NEAVC</a> Design Studio; I am thrilled he is officially here! <a href="http://t.co/nUlV7N38fB">http://t.co/nUlV7N38fB</a> <a href="https://twitter.com/hashtag/ItStartsWithDeisgn?src=hash">#ItStartsWithDeisgn</a></p>&mdash; daynagrayson (@daynagrayson) <a href="https://twitter.com/daynagrayson/status/654676127777099776">October 15, 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+iconimg: <img width=16 src="https://pbs.twimg.com/profile_images/2586961653/image.jpg">
+mytweet: <blockquote class="twitter-tweet" width="480" data-cards="hidden" lang="en"><p lang="en" dir="ltr">Thrilled for <a href="https://twitter.com/a16z">@a16z</a> to help <a href="https://twitter.com/Medium">@Medium</a> grow in to even more of a powerhouse platform. <a href="https://t.co/nzXeQsgohh">https://t.co/nzXeQsgohh</a></p>&mdash; Elizabeth Weil (@elizabeth) <a href="https://twitter.com/elizabeth/status/648633817297629185">September 28, 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>  
 ---
 
 1. <b>How does a design perspective help in evaluating an investment decision, in <span style="border-bottom: 2px solid black;">obvious</span> ways?</b> It allows you to explore the product and team through a set of lenses (both old school design and business design) additive to the traditional business diligence lenses. How does the team see the future of the product (and therefore their business)? What's the value prop and the desirability of the product? What's the usability and the friction of the experience like?
