@@ -26,11 +26,13 @@ mytweet: <blockquote class="twitter-tweet" width="480" data-cards="hidden" lang=
   * Patagonia (private)
 
 8. <b>Which three startups in the CONSUMER space do you think embody design in their companies particularly well, and why?</b>
-  * FiftyThree - Product development roadmap
-  * Casper - Amazing team structure
-  * Pocket - Keep it simple
+  * Uber - great execution on their original vision of having passengers get transported around like rock stars; details like not having to deal with payment or tips after a ride help create a great experience; great branding and emotional connection to users through visual details such as showing the black car in the app; nice extension of the original concept to other areas (UberX, UberPool, UberSUV, etc); its model has inspired countless companies to extend the model to a variety of domains
+  * Medium - publishing platform makes it easy for anyone to post a great looking article and get traffic; nice content discovery experience; it will be the de facto publishing platform for the web
+  * Spotify - This company has radically changed the way we buy, discover, share, and listen to music
+
 
 9. <b>Which three startups in the ENTERPRISE space do you think embody design in their companies particularly well, and why?</b>
-  * Slack - Tone of voice and product personality
-  * Enigma.io - Makes complicated things very simple
-  * Robin Hood - Makes complicated things very simple
+  * Slack
+  * Square
+  * ThoughtSpot
+

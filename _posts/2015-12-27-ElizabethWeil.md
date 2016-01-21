@@ -19,3 +19,23 @@ mytweet: <blockquote class="twitter-tweet" width="480" data-cards="hidden" lang=
 5. <b>How do you best support CEOs with a purely technical and/or business background to leverage design in their startup?</b> Make a great hire at the beginning. Pay them well, give them a seat and a voice at the table, and empower him/her to act like a founder.
 
 6. <b>What are a few challenges you've seen in working with companies that have caught &ldquo;the design bug&rdquo; -- especially the CEO?</b> Some companies with this can over-rotate on emphasis on design. This can create slower decision-making and iteration cadence, excuses on lack of progress, and the potential to ignore some of the other early important factors like business model and engineering roadmap.
+
+7. <b>Which three public companies out there do you admire for their approach to design?</b>
+  * Google--even as they've grown, you can tell some focus is spent on design when it could be ignored. Google Photos is my newest favorite service I use. Just plain easy to set up.
+  * Target--in the retail space, I think they have been in a leader on converging the in-store and digital experience.
+  * Virgin airlines---you know what to expect. 
+
+8. <b>Which three startups in the CONSUMER space do you think embody design in their companies particularly well, and why?</b>
+  * Uber (Exposing the user to data that is helpful, gives context, and designed in a way that anyone can use---like driver location. Iterating on design with user needs--like pickup at airports.  Seamless credit-card linking/scanning.)
+  * Dropbox (Easy to set up on all devices. Similar experience on desktop, mobile, cloud, etc. Easy to access files, good search.)
+  * Pocket (It just works.)
+
+9. <b>Which three startups in the ENTERPRISE space do you think embody design in their companies particularly well, and why?</b>
+  * Envoy (Front-desk check-in, Easy to set up, describe what they do, and focused on being good at one thing first.)
+  * Slack (Streamlined communication.)
+  * Okta (Consumer experience is key for signing on to all of the apps and things you access every day at work. Easy set up. Easy to understand and describe.) 
+
+10. <b>What are a few URLs of your favorite writings on design in the VC space (including your own)?</b> 
+  * [Cap Watkin's blog](http://blog.capwatkins.com/)
+
+
